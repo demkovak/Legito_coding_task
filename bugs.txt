@@ -1,0 +1,11 @@
+Bugy:
+
+- po zadání krátkého hesla během zakládání účtu se zobrazí error message, ve kterém je heslo v otevřené podobě
+
+- error message (např. při vynechání některého pole ve formulářích anebo při invalidním datu narození) jsou vcelku kostrbaté 
+
+Připomínky:
+
+- pro aplikaci tohoto typu bych využila spíše formát data dd.MM.yyyy
+
+- tabulka kontaktů je řazena podle lastName, ale jako první se v name vypisuje firstName - buďto bych řadila podle firstName, anebo bych jako první vypisovala lastName - takto je tabulka lehce nepřehledná
